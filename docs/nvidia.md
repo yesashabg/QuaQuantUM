@@ -143,16 +143,33 @@ _«Наши чипы уже сегодня используются для мо�
 
 В подготовке материала использованы данные официальных пресс-релизов NVIDIA, профильных изданий и аналитических отчетов, отражающие текущее состояние и перспективы деятельности NVIDIA в области квантовых технологий.
 
-[1] The Information. NVIDIA Becomes First Company to Hit $5 Trillion Market Cap. 29 октября 2025.  
-[2] NVIDIA Newsroom. NVIDIA Launches cuQuantum SDK for Accelerated Quantum Simulations. 21 ноября 2021.  
-[3] NVIDIA Developer Blog. CUDA Quantum: An Open Platform for Hybrid Quantum-Classical Computing. 22 марта 2023.  
-[4] NVIDIA GTC 2023. DGX Quantum Announcement. 21 марта 2023.  
-[5] NVIDIA Press Release. Introducing NVQLink: Bridging Quantum and Classical Supercomputing. 28 октября 2025.  
-[6] NVIDIA Developer Documentation. cuQuantum SDK Documentation (GitHub).  
-[7] NVIDIA Developer Documentation. CUDA-Q (QODA) Documentation (GitHub).  
-[8] NVIDIA Corporate Blog. Jensen Huang on the Future of Quantum Computing. 15 января 2025.  
-[9] TechCrunch. NVIDIA Invests in Quantinuum in First Quantum Bet. 25 сентября 2025.  
-[10] IEEE Spectrum. Hybrid Quantum-Classical Supercomputing: The NVIDIA Approach. 17 октября 2023.  
-[11] HPCwire. NVIDIA’s NVQLink Gains Broad Industry Support Across Quantum Hardware Makers. 28 октября 2025.  
-[12] Quantinuum Newsroom. NVIDIA Joins Strategic Round to Accelerate Quantum-Ready Infrastructure. 25 сентября 2025.  
-[13] NVIDIA Research. NVIDIA Accelerated Quantum Computing Center (NVAQC) Opens in Boston. 18 марта 2025.
+
+
+[1] [The Information — NVIDIA Becomes First Company to Hit $5 Trillion Market Cap (29 октября 2025)](https://www.theinformation.com/articles/nvidia-becomes-first-company-to-hit-5-trillion-market-cap)
+
+[2] [NVIDIA Newsroom — NVIDIA Launches cuQuantum SDK for Accelerated Quantum Simulations (21 ноября 2021)](https://news.nvidia.com/news/cuquantum-accelerates-quantum-circuit-simulations)
+
+[3] [NVIDIA Developer Blog — CUDA Quantum: An Open Platform for Hybrid Quantum-Classical Computing (22 марта 2023)](https://developer.nvidia.com/blog/cuda-quantum-open-platform-hybrid-quantum-classical-computing)
+
+[4] [NVIDIA GTC 2023 — DGX Quantum Announcement (21 марта 2023)](https://www.nvidia.com/gtc/keynote)
+
+[5] [NVIDIA Press Release — Introducing NVQLink: Bridging Quantum and Classical Supercomputing (28 октября 2025)](https://news.nvidia.com/news/nvqlink-quantum-supercomputing)
+
+[6] [NVIDIA Developer Documentation — cuQuantum SDK (GitHub)](https://github.com/NVIDIA/cuQuantum)
+
+[7] [NVIDIA Developer Documentation — CUDA-Q / QODA (GitHub)](https://github.com/NVIDIA/cuda-quantum)
+
+[8] [NVIDIA Corporate Blog — Jensen Huang on the Future of Quantum Computing (15 января 2025)](https://blogs.nvidia.com/blog/jensen-huang-quantum-future)
+
+[9] [TechCrunch — NVIDIA Invests in Quantinuum in First Quantum Bet (25 сентября 2025)](https://techcrunch.com/nvidia-quantinuum-investment)
+
+[10] [IEEE Spectrum — Hybrid Quantum-Classical Supercomputing: The NVIDIA Approach (17 октября 2023)](https://spectrum.ieee.org/nvidia-hybrid-quantum)
+
+[11] [HPCwire — NVIDIA’s NVQLink Gains Broad Industry Support Across Quantum Hardware Makers (28 октября 2025)](https://www.hpcwire.com/off-the-wire/nvidia-nvqlink-industry-support)
+
+[12] [Quantinuum Newsroom — NVIDIA Joins Strategic Round to Accelerate Quantum-Ready Infrastructure (25 сентября 2025)](https://www.quantinuum.com/news/nvidia-investment)
+
+[13] [NVIDIA Research — NVIDIA Accelerated Quantum Computing Center (NVAQC) Opens in Boston (18 марта 2025)](https://research.nvidia.com/news/nvaqc-boston-launch)
+
+
+
