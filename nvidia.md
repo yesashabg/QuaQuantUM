@@ -125,19 +125,17 @@ In the end, **quantum computing is still far from rivaling silicon chips in vers
 
 ### Sources  
 
-1. [The Information — NVIDIA Becomes First Company to Hit $5 Trillion Market Cap (October 29, 2025)](https://www.theinformation.com/articles/nvidia-becomes-first-company-to-hit-5-trillion-market-cap)  
-2. [NVIDIA Newsroom — NVIDIA Launches cuQuantum SDK for Accelerated Quantum Simulations (November 21, 2021)](https://nvidianews.nvidia.com/news/nvidia-launches-cuquantum-sdk-for-accelerated-quantum-simulations)  
-3. [NVIDIA Developer Blog — CUDA Quantum: An Open Platform for Hybrid Quantum-Classical Computing (March 22, 2023)](https://developer.nvidia.com/blog/cuda-quantum-an-open-platform-for-hybrid-quantum-classical-computing)  
-4. [NVIDIA GTC 2023 — DGX Quantum Announcement (March 21, 2023)](https://www.nvidia.com/gtc/news/dgx-quantum-announcement-2023)  
-5. [NVIDIA Press Release — Introducing NVQLink: Bridging Quantum and Classical Supercomputing (October 28, 2025)](https://nvidianews.nvidia.com/news/introducing-nvqlink-bridging-quantum-and-classical-supercomputing)  
-6. [NVIDIA Developer Documentation — cuQuantum SDK (GitHub)](https://github.com/NVIDIA/cuQuantum)  
-7. [NVIDIA Developer Documentation — CUDA-Q / QODA (GitHub)](https://github.com/NVIDIA/cuda-quantum)  
-8. [NVIDIA Corporate Blog — Jensen Huang on the Future of Quantum Computing (January 15, 2025)](https://blogs.nvidia.com/blog/2025/01/15/jensen-huang-future-of-quantum-computing)  
-9. [TechCrunch — NVIDIA Invests in Quantinuum in First Quantum Bet (September 25, 2025)](https://techcrunch.com/2025/09/25/nvidia-invests-in-quantinuum-first-quantum-bet)  
-10. [IEEE Spectrum — Hybrid Quantum-Classical Supercomputing: The NVIDIA Approach (October 17, 2023)](https://spectrum.ieee.org/hybrid-quantum-classical-supercomputing-nvidia)  
-11. [HPCwire — NVIDIA's NVQLink Gains Broad Industry Support Across Quantum Hardware Makers (October 28, 2025)](https://www.hpcwire.com/2025/10/28/nvidia-nvqlink-gains-broad-industry-support)  
-12. [Quantinuum Newsroom — NVIDIA Joins Strategic Round to Accelerate Quantum-Ready Infrastructure (September 25, 2025)](https://www.quantinuum.com/news/nvidia-joins-strategic-round-to-accelerate-quantum-ready-infrastructure)  
-13. [NVIDIA Research — NVIDIA Accelerated Quantum Computing Center (NVAQC) Opens in Boston (March 18, 2025)](https://research.nvidia.com/news/nvaqc-opens-boston-2025)  
+### Sources
 
+1. [Reuters — Nvidia hits \$5 trillion valuation as AI boom powers meteoric rise (Oct 29, 2025)](https://www.reuters.com/business/nvidia-poised-record-5-trillion-market-valuation-2025-10-29/)
+2. [The Quantum Insider — NVIDIA’s Quantum Computing Technology: An Overview (Apr 28, 2023)](https://thequantuminsider.com/2023/04/28/nvidia-quantum-computing/)
+3. [NVIDIA Technical Blog — Introducing CUDA-Q: The Platform for Hybrid Quantum-Classical Computing (Mar 22, 2023)](https://developer.nvidia.com/blog/introducing-cuda-quantum-the-platform-for-hybrid-quantum-classical-computing/)
+4. [NVIDIA Technical Blog — Achieving Supercomputing-Scale Quantum Circuit Simulation with the cuQuantum Appliance (2023)](https://developer.nvidia.com/blog/achieving-supercomputing-scale-quantum-circuit-simulation-with-the-cuquantum-appliance/)
+5. [NVIDIA Developer — CUDA-Q (Official Documentation)](https://developer.nvidia.com/cuda-q)
+6. [NVIDIA Newsroom — NVIDIA Introduces NVQLink: Connecting Quantum and GPU Computing for 17 Quantum Builders and Nine Scientific Labs (Oct 28, 2025)](https://nvidianews.nvidia.com/news/nvidia-nvqlink-quantum-gpu-computing)
+7. [Moomoo News — NVIDIA acquires a stake in a quantum computing company, accelerating the industrialization process of quantum technology (Sep 2025)](https://www.moomoo.com/news/post/58148389/nvidia-acquires-a-stake-in-a-quantum-computing-company-accelerating)
+8. [NVIDIA Newsroom — NVIDIA to Build Accelerated Quantum Computing Research Center (Mar 18, 2025)](https://nvidianews.nvidia.com/news/nvidia-to-build-accelerated-quantum-computing-research-center)
+9. [Quantum Computing Report — Our Thoughts on Jensen Huang's “Truly Useful in 15–30 Years” Quantum Statement (2025)](https://quantumcomputingreport.com/our-thoughts-on-jensen-huangs-truly-useful-in-15-30-years-quantum-statements/)
+10. [TechSpot — Jensen Huang backpedals on remarks that sent quantum computing stocks spiraling (2025)](https://www.techspot.com/news/107247-jensen-huang-backpedals-remarks-sent-quantum-computing-stock.html)
 
 
